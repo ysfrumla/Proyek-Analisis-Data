@@ -3,11 +3,11 @@ Repositori ini adalah hasil dari proyek analis data yang dibuat dengan Streamlit
 # Sumber Data
 E-Commerce Public Dataset ([Sumber](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce))
 # Setup Environment
-'''
+```
 conda create --name main-ds python=3.9
 conda activate main-ds
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit
-'''
+```
 # Struktur Direktori
 - `/E-Commerce Public Dataset`: Beriki kumpulan dataset yang di download melalui [sumber](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) untuk di analisis.
 - `all_data.csv`: Merupakan seluruh kumpulan data yang sudah digabungkan menjadi 1 file utuh yang siap untuk di visualisasikan dengan `streamlit`.
