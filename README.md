@@ -1,11 +1,8 @@
 # Proyek-Analisis-Data
 Repositori ini adalah hasil dari proyek analis data yang dibuat dengan Streamlit. Tujuannya adalah untuk melakukan analisis data terhadap E-Commerce Public Dataset yang divisualisasikan di cloud melalui sebuah website.Tujuan utamanya adalah untuk memberikan pemahaman dan pemahaman tentang data.
-# Sumber Data
+# Sumber Data dan Instalasi Environment
 E-Commerce Public Dataset ([Sumber](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce))
-# Setup Environment
 ```
-conda create --name main-ds python=3.9
-conda activate main-ds
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit
 ```
 # Struktur Direktori
